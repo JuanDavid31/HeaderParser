@@ -1,0 +1,24 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "HeaderParser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDavid31/HeaderParser.git"
+  },
+  "author": "Juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDavid31/HeaderParser/issues"
+  },
+  "homepage": "https://github.com/JuanDavid31/HeaderParser#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "public-ip": "^2.3.5"
+  }
+}
